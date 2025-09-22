@@ -3,7 +3,7 @@ import Link from "next/link";
 export default function Header() {
   return (
     <header>
-      <h1>📚 Livraria Online</h1>
+      <h1>📚 Livraria Online da aula do Prof. Joseffe</h1>
       <nav>
         <Link href="/">Home</Link>
         <Link href="/livros">Livros</Link>
